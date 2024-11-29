@@ -1,1 +1,1 @@
-# Gym_Env_Example
+# Grid World: An Example for creating environment using OpenAI Gym
